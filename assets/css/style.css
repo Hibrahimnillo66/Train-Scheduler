@@ -1,0 +1,47 @@
+body {
+    background-image: url("../images/andre-benz-237615-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+form {
+    background-color:transparent;
+    background-color: rgba(245, 235, 235, 0.322);
+    color: aliceblue;
+    padding: 10px;
+    margin-left: 58px;
+    margin-bottom: 0px;
+}
+
+#trainInfo{
+    background-color:transparent;
+    color: aliceblue;
+    margin-left: 15px;
+}
+
+.panel-title{
+    margin-top: 10px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+tr{
+    color: aliceblue;
+    border-bottom: 10px;
+}
+
+.jumbotron{
+    text-align: center;
+    
+}
+
+.info{
+    background-color: rgba(255, 0, 0, 0.747);
+}
+
+#train-table-rows{
+    background-color: rgba(0, 0, 255, 0.74);
+}
