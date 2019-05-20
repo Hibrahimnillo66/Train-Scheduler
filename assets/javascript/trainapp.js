@@ -51,7 +51,7 @@ $(document).ready(function(){
         // Don't refresh the page!
         event.preventDefault();
   
-        //THIS AVOIDS THAT USER LEAVES A BLANK INOUT FIELD
+        //THIS AVOIDS THAT USER LEAVES A BLANK INPUT FIELD
         if($("#inputTrain").val().trim()=== "" ||
         $("#inputDestination").val().trim()===""||
         $("#inputTime").val().trim()===""||
